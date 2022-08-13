@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2022 11:17:36 AM",
+      "body": "Lsdfsforem ipsum dfiosdsdfsdsdafadf vsibv  jbv ivsldihosidgsodisdjsjsusds"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 02, 2022 11:17:36 AM",
+      "body": "Lsdfsforem ipsum dfiosdsdfsdsdafadf vsibv  jbv ivsldihosidgsodisdjsjsusds"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 03, 2020 11:17:36 AM",
+      "body": "Lorem ipssdfsdfsdfum dfiosd vsibv  jbv ivsldihosidgsodisdjsjsusds"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 04, 2019 11:17:36 AM",
+      "body": "Lsdfsforem ipssdfsdfum dfiosdsdfsdsdafadf vsibv  jbv ivsldihosidgsodisdjsjsusds"
+    },
+    {
+      "id": 5,
+      "title": "FRONT END DEVELOPER",
+      "datetime": "August 12, 2022 Aug 12, 2022",
+      "body": "sdfsdfsdf"
+    },
+    {
+      "id": 6,
+      "title": "werwer",
+      "datetime": "August 12, 2022 Aug 12, 2022",
+      "body": "werwerw"
+    },
+    {
+      "id": 7,
+      "title": "dsdfsasda",
+      "datetime": "August 12, 2022 12:55:25 PM",
+      "body": "sdfsdasd"
+    },
+    {
+      "id": 8,
+      "title": "Benedictwew",
+      "datetime": "August 13, 2022 12:53:46 AM",
+      "body": "Kabiawu is a yoruba surname wew"
+    },
+    {
+      "id": 10,
+      "title": "Kabiaawu",
+      "datetime": "August 13, 2022 Aug 13, 2022",
+      "body": "Oluwatobi"
+    },
+    {
+      "id": 11,
+      "title": "Diana",
+      "datetime": "August 13, 2022 Aug 13, 2022",
+      "body": "weweweD"
+    },
+    {
+      "id": 12,
+      "title": "mine",
+      "datetime": "August 13, 2022 Aug 13, 2022",
+      "body": "esther"
+    }
+  ]
+}
